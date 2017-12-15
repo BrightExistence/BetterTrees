@@ -1,0 +1,11 @@
+﻿{
+  "types": {
+    "BrightExistence.BetterTrees.logtemperatehorizontal": "Horizontal Temperate Log",
+    "BrightExistence.BetterTrees.logtaigahorizontal": "Horizontal Taiga Log"
+
+  },
+  "typeuses": {
+    "BrightExistence.BetterTrees.logtemperatehorizontal": "Like a temperate log... only horizontal.",
+    "BrightExistence.BetterTrees.logtaigahorizontal": "The result of pushing over a Taiga Tree."
+  }
+}
