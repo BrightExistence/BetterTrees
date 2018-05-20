@@ -1,0 +1,46 @@
+{
+  "_settings" : {
+		"defaultAlbedo" : "gamedata/textures/materials/blocks/albedo/neutral.png",
+		"defaultEmissive" : "gamedata/textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+		"defaultHeight" : "gamedata/textures/materials/blocks/heightSmoothnessSpecularity/neutral.png",
+		"defaultNormal" : "gamedata/textures/materials/blocks/normal/neutral.png",
+		"fileExtension" : ".png",
+		"folderAlbedo" : "./textures/albedo",
+		"folderEmissive" : "./",
+		"folderHeight" : "./",
+		"folderNormal" : "./"
+	},
+  "thatch": {
+    "albedo": "./textures/albedo/thatch.png",
+    "normal": "gamedata/textures/materials/blocks/normal/neutral.png",
+    "emissive": "gamedata/textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+    "height": "gamedata/textures/materials/blocks/heightSmoothnessSpecularity/neutral.png"
+  },
+  "leavestemperate": {
+    "albedo": "./textures/albedo/leavestemperate.png"
+  },
+  "mossy_stone_brick": {
+    "albedo": "./textures/albedo/mossy_stone_brick.png",
+    "normal": "gamedata/textures/materials/blocks/normal/neutral.png",
+    "emissive": "gamedata/textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+    "height": "gamedata/textures/materials/blocks/heightSmoothnessSpecularity/neutral.png"
+  },
+  "vines": {
+    "albedo": "./textures/albedo/dirt_vines.png",
+    "normal": "gamedata/textures/materials/blocks/normal/neutral.png",
+    "emissive": "gamedata/textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+    "height": "gamedata/textures/materials/blocks/heightSmoothnessSpecularity/neutral.png"
+  },
+  "stone_vines": {
+    "albedo": "./textures/albedo/stone_vines.png",
+    "normal": "gamedata/textures/materials/blocks/normal/neutral.png",
+    "emissive": "gamedata/textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+    "height": "gamedata/textures/materials/blocks/heightSmoothnessSpecularity/neutral.png"
+  },
+  "planks": {
+    "albedo": "./textures/albedo/planks.png",
+    "normal": "gamedata/textures/materials/blocks/normal/neutral.png",
+    "emissive": "gamedata/textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+    "height": "gamedata/textures/materials/blocks/heightSmoothnessSpecularity/neutral.png"
+  }
+}

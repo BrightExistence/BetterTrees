@@ -22,3 +22,29 @@ F:\Jon's Documents\.NET Projects\BetterTrees2\BetterTrees2\bin\Debug\BrightExist
 F:\Jon's Documents\.NET Projects\BetterTrees2\BetterTrees2\bin\Debug\BrightExistence\BetterTrees\BetterTrees.pdb
 F:\Jon's Documents\.NET Projects\BetterTrees2\BetterTrees2\obj\Debug\BetterTrees.dll
 F:\Jon's Documents\.NET Projects\BetterTrees2\BetterTrees2\obj\Debug\BetterTrees.pdb
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\icons\firTree.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\icons\leavestemperate.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\icons\loghorizontaltaiga.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\icons\loghorizontaltemperate.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\icons\logTaiga.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\icons\logtemperate.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\firTree.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\leavestemperate.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\loghorizontaltaiga.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\loghorizontaltemperate.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\logTaiga.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\logTemperate.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\stumptaiga.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\stumptemperate.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\x+.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\x-.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\z+.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\textures\albedo\z-.png
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\localization\en-US\translation.json
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\modInfo.json
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\BetterTrees.dll
+C:\Users\jon\Documents\GitHub\BetterTrees\bin\Debug\BrightExistence\BetterTrees\BetterTrees.pdb
+C:\Users\jon\Documents\GitHub\BetterTrees\obj\Debug\BetterTrees.csprojResolveAssemblyReference.cache
+C:\Users\jon\Documents\GitHub\BetterTrees\obj\Debug\BetterTrees.csproj.CoreCompileInputs.cache
+C:\Users\jon\Documents\GitHub\BetterTrees\obj\Debug\BetterTrees.dll
+C:\Users\jon\Documents\GitHub\BetterTrees\obj\Debug\BetterTrees.pdb

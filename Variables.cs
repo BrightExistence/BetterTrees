@@ -9,7 +9,7 @@ namespace BrightExistence.SimpleTools
         public static Dictionary<string, ItemTypesServer.ItemTypeRaw> itemsMaster;
         protected const int simpleToolsMajor = 0;
         protected const int simpleToolsMinor = 2;
-        protected const int simpleToolsBuild = 1;
+        protected const int simpleToolsBuild = 2;
         public static string toolkitVersion
         {
             get

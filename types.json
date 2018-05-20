@@ -1,0 +1,57 @@
+{
+  "thatch": {
+    "categories": [
+      "decorative"
+    ],
+    "icon": "./icons/thatch.png",
+    "maxStackSize": 200,
+    "onPlaceAudio": "dirtPlace",
+    "onRemoveAudio": "grassDelete",
+    "sideall": "thatch"
+  },
+  "stone_vines": {
+    "categories": [
+      "decorative"
+    ],
+    "icon": "./icons/stone_vines.png",
+    "maxStackSize": 200,
+    "onPlaceAudio": "stonePlace",
+    "onRemoveAudio": "stoneDelete",
+    "sideall": "SELF"
+  },
+  "mossy_brick": {
+    "categories": [
+      "decorative",
+      "bricks"
+    ],
+    "icon": "./icons/mossy_stone_brick.png",
+    "maxStackSize": 100,
+    "onPlaceAudio": "stonePlace",
+    "onRemoveAudio": "stoneDelete",
+    "sideall": "mossy_stone_brick"
+  },
+  "vines": {
+    "categories": [
+      "decorative",
+      "leaves"
+    ],
+    "icon": "./icons/dirt_vines.png",
+    "maxStackSize": 200,
+    "onPlaceAudio": "stonePlace",
+    "onRemoveAudio": "stoneDelete",
+    "sideall": "vines",
+    "sidey+": "leavestemperate"
+  },
+  "planter": {
+    "categories": [
+      "decorative"
+    ],
+    "isFertile": true,
+    "icon": "./icons/planter.png",
+    "maxStackSize": 50,
+    "onPlaceAudio": "woodPlace",
+    "onRemoveAudio": "woodPlace",
+    "sideall": "planks",
+    "sidey+": "grasstemperate"
+  }
+}

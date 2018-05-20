@@ -38,7 +38,7 @@ namespace BrightExistence.SimpleTools
                     return false;
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Pipliz.Log.Write("{0}: tryRemoveRecipe has reached an exception.");
                 return false;

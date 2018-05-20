@@ -1,0 +1,14 @@
+﻿{
+  "stoneblock": {
+    "onRemoveType": "stoneblock",
+    "isPlaceable": false
+  },
+  "infinitestone": {
+    "onRemoveType": "stoneblock",
+    "isPlaceable": false
+  },
+  "darkstone": {
+    "onRemoveType": "stoneblock",
+    "isPlaceable": false
+  }
+}

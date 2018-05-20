@@ -67,11 +67,11 @@ namespace BrightExistence.SimpleTools
         static SimpleItem logTemperateHorizontal = new SimpleItem("logtemperatehorizontal", NAMESPACE);
 
         // (STATIC) SIMPLERECIPE OBJECTS
-        static SimpleRecipe RecTaigaVerticalToHorizontal = new SimpleRecipe(LogTaigaHorizontal, "pipliz.crafter");
-        static SimpleRecipe RecTaigaHorizontalToVertical = new SimpleRecipe(BetterLogTaiga, "pipliz.crafter");
+        static SimpleRecipe RecTaigaVerticalToHorizontal = new SimpleRecipe(LogTaigaHorizontal);
+        static SimpleRecipe RecTaigaHorizontalToVertical = new SimpleRecipe(BetterLogTaiga);
 
-        static SimpleRecipe RecTemperateVerticalToHorizontal = new SimpleRecipe(logTemperateHorizontal, "pipliz.crafter");
-        static SimpleRecipe RecTemperateHorizontalToVerical = new SimpleRecipe(BetterLogTemperate, "pipliz.crafter");
+        static SimpleRecipe RecTemperateVerticalToHorizontal = new SimpleRecipe(logTemperateHorizontal);
+        static SimpleRecipe RecTemperateHorizontalToVerical = new SimpleRecipe(BetterLogTemperate);
 
         // (STATIC) SIMPLERESEARCH OBJECTS
 

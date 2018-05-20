@@ -1,0 +1,21 @@
+﻿{
+  "types": {
+    "BrightExistence.BetterTrees.logtemperatehorizontal": "Horizontal Temperate Log",
+    "BrightExistence.BetterTrees.logtaigahorizontal": "Horizontal Taiga Log",
+    "thatch": "Thatch",
+    "stone_vines": "Vine Covered Stone",
+    "mossy_brick": "Moss Covered Brick",
+    "vines": "Vine Covered Dirt",
+    "planter": "Plant Pot"
+
+  },
+  "typeuses": {
+    "BrightExistence.BetterTrees.logtemperatehorizontal": "Like a temperate log... only horizontal.",
+    "BrightExistence.BetterTrees.logtaigahorizontal": "The result of pushing over a Taiga Tree.",
+    "thatch": "In case you run out of straw.",
+    "stone_vines": "For that green but rocky canyon look...",
+    "mossy_brick": "Brick that's been there a while...",
+    "vines": "Dirt with some vines on the sides and plants on top.",
+    "planter": "Suspiciously cube-shaped pot of grass... But you can plant a tree in it!"
+  }
+}

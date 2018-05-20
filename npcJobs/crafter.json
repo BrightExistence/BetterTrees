@@ -1,0 +1,108 @@
+﻿[
+  {
+    "name": "bright.crafter.grass",
+    "results": [ { "type": "grasstemperate" } ],
+    "requires": [ { "type": "dirt" } ],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+  },
+  {
+    "name": "bright.crafter.dirttemperate",
+    "results": [ { "type": "dirt" } ],
+    "requires": [ { "type": "grasstemperate" } ],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+  },
+  {
+    "name": "bright.crafter.dirttaiga",
+    "results": [ { "type": "dirt" } ],
+    "requires": [ { "type": "grasstaiga" } ],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+  },
+  {
+    "name": "bright.crafter.mossystone",
+    "results": [
+      {
+        "type": "mossy_brick",
+        "amount": 5
+      }
+    ],
+    "requires": [
+      {
+        "type": "stonebricks",
+        "amount": 5
+      }
+    ],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+  },
+  {
+    "name": "bright.crafter.vines",
+    "results": [
+      {
+        "type": "vines",
+        "amount": 5
+      }
+    ],
+    "requires": [
+      {
+        "type": "dirt",
+        "amount": 5
+      }
+    ],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+  },
+  {
+    "name": "bright.crafter.stone_vines",
+    "requires": [
+      {
+        "type": "stoneblock",
+        "amount": 5
+      }
+    ],
+    "results": [
+      {
+        "type": "stone_vines",
+        "amount": 5
+      }
+    ],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+  },
+  {
+    "name": "bright.crafter.thatchtemperate",
+    "results": [ { "type": "thatch" } ],
+    "requires": [ { "type": "leavestemperate" } ],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+  },
+  {
+    "name": "bright.crafter.thatchtaiga",
+    "results": [ { "type": "thatch" } ],
+    "requires": [ { "type": "leavestaiga" } ],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+  },
+  {
+    "name": "bright.crafter.planter",
+    "results": [ { "type": "planter" } ],
+    "requires": [
+      { "type": "dirt" },
+      { "type": "planks" }
+    ],
+    "defaultLimit": 0,
+    "defaultPriority": -100
+  },
+  {
+    "name": "pipliz.crafter.coppernails",
+    "results": [
+      {
+        "type": "coppernails",
+        "amount": 30
+      }
+    ],
+    "requires": [ { "type": "copper" } ]
+  }
+]

@@ -1,0 +1,11 @@
+﻿[
+  {
+    "name": "BetterTrees",
+    "dllpath": "BetterTrees.dll",
+    "version": "0.1.1",
+    "enabled": true,
+    "compatibleversions": [
+      "0.6.0"
+    ]
+  }
+]

@@ -1,11 +1,37 @@
 ﻿[
   {
-    "name": "BetterTrees",
     "dllpath": "BetterTrees.dll",
-    "version": "0.1.1",
+    "name": "BrightExistence.BetterTrees",
+    "namepretty": "The Better Trees Mod!",
+    "version": "2.0",
     "enabled": true,
+    "marksgamemodded": true,
     "compatibleversions": [
-      "0.6.0"
-    ]
+      "0.6.1"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addOrOverrideTextureMappingEntries",
+        "relativePath": "texturemapping.json"
+      },
+      {
+        "fileType": "addNewTypes",
+        "relativePath": "types.json"
+      },
+      {
+        "fileType": "overrideTypeProperties",
+        "relativePath": "type_override.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "relativePath": "localization/en-US/en-US.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "relativePath": "npcJobs/crafter.json",
+        "npcType": "pipliz.crafter"
+      }
+    ],
+    "about": "Adds horizontal logs, better tree textures, and a few new decorative blocks! (Also makes raw stone unplaceable.)"
   }
 ]
