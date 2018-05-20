@@ -27,6 +27,10 @@
         "relativePath": "localization/en-US/en-US.json"
       },
       {
+        "fileType": "addOrReplacePlayerRecipes",
+        "relativePath": "crafting.json"
+      },
+      {
         "fileType": "addOrReplaceNPCRecipes",
         "relativePath": "npcJobs/crafter.json",
         "npcType": "pipliz.crafter"

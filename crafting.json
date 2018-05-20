@@ -1,0 +1,90 @@
+﻿[
+  {
+    "name": "bright.player.grass",
+    "results": [ { "type": "grasstemperate" } ],
+    "requires": [ { "type": "dirt" } ]
+  },
+  {
+    "name": "bright.player.dirttemperate",
+    "results": [ { "type": "dirt" } ],
+    "requires": [ { "type": "grasstemperate" } ]
+  },
+  {
+    "name": "bright.player.dirttaiga",
+    "results": [ { "type": "dirt" } ],
+    "requires": [ { "type": "grasstaiga" } ]
+  },
+  {
+    "name": "bright.player.mossystone",
+    "results": [
+      {
+        "type": "mossy_brick",
+        "amount": 5
+      }
+    ],
+    "requires": [
+      {
+        "type": "stonebricks",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "bright.player.vines",
+    "results": [
+      {
+        "type": "vines",
+        "amount": 5
+      }
+    ],
+    "requires": [
+      {
+        "type": "dirt",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "bright.player.stone_vines",
+    "requires": [
+      {
+        "type": "stoneblock",
+        "amount": 5
+      }
+    ],
+    "results": [
+      {
+        "type": "stone_vines",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "name": "bright.player.thatchtemperate",
+    "results": [ { "type": "thatch" } ],
+    "requires": [ { "type": "leavestemperate" } ]
+  },
+  {
+    "name": "bright.player.thatchtaiga",
+    "results": [ { "type": "thatch" } ],
+    "requires": [ { "type": "leavestaiga" } ]
+  },
+  {
+    "name": "bright.player.planter",
+    "results": [ { "type": "planter" } ],
+    "requires": [
+      { "type": "dirt" },
+      { "type": "planks" }
+    ]
+  },
+  {
+    "name": "pipliz.player.coppernails",
+    "results": [
+      {
+        "type": "coppernails",
+        "amount": 30
+      }
+    ],
+    "requires": [ { "type": "copper" } ]
+  }
+]
