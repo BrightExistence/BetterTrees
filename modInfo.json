@@ -19,10 +19,6 @@
         "relativePath": "types.json"
       },
       {
-        "fileType": "overrideTypeProperties",
-        "relativePath": "type_override.json"
-      },
-      {
         "fileType": "addOrOverrideLocalization",
         "relativePath": "localization/en-US/en-US.json"
       },
